@@ -65,6 +65,10 @@
     "valarray": "cpp",
     "functional": "cpp",
     "deque": "cpp",
-    "string": "cpp"
+    "string": "cpp",
+    "type_traits": "cpp",
+    "sstream": "cpp",
+    "regex": "cpp",
+    "bitset": "cpp"
   }
 }
